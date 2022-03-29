@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "warriors_patch:item/bedrock_dust"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "X": {
+      "item": "warriors_patch:withered_bone"
+    }
+  },
+  "result": {
+    "item": "warriors_patch:withered_scythe"
+  }
+}

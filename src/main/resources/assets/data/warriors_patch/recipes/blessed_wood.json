@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    "ZZZ"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_wood"
+    },
+    "X": {
+      "item": "minecraft:nether_star"
+    },
+    "Z": {
+      "item": "minecraft:dragons_breath"
+    }
+  },
+  "result": {
+    "item": "warriors_patch:blessed_wood"
+  }
+}
